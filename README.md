@@ -1,7 +1,9 @@
 <img width="229" height="97" alt="image" src="https://github.com/user-attachments/assets/9da64c63-c2c7-4b76-89be-de2a8a7c558c" />
 
 ( Project under progress now )
+
 🚀 Cognify – Your Private AI Brain for Docs & PDFs
+
 Why search when you can ask?
 Cognify turns your PDFs, notes, and code into a living, searchable knowledge hub you can chat with — all while keeping your data 100% private.
 
