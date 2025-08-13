@@ -1,10 +1,4 @@
-   ____                 _  __ _       
-  / ___|___  _ __   ___| |/ _| |_   _ 
- | |   / _ \| '_ \ / _ \ | |_| | | | |
- | |__| (_) | | | |  __/ |  _| | |_| |
-  \____\___/|_| |_|\___|_|_| |_|\__, |
-                                 |___/   v1.0
-
+<img width="229" height="97" alt="image" src="https://github.com/user-attachments/assets/9da64c63-c2c7-4b76-89be-de2a8a7c558c" />
 
 ( Project under progress now )
 🚀 Cognify – Your Private AI Brain for Docs & PDFs
